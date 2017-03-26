@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>xlsx-comparison</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>xlsx-comparison</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Comparer.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Save.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>Save.java.sdk</path>
+			<symbols>
+				<symbol>Save</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Comparer.java.sdk</path>
+			<symbols>
+				<symbol>Comparer</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

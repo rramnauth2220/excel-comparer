@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>xlsx-comparison</label>
+		<id>138</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>xlsx-comparison.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>xlsx-comparison.jcp</path>
+		</project>
+	</projects>
+</workspace>
